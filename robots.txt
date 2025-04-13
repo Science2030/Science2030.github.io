@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Science2030.github.io/sitemap.xml
